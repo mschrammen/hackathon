@@ -1,2 +1,2 @@
 # hackathon
-In order to particiate to the Hackathon please fork this repo and follow the rules posted at https://givevoicetofootball.github.io/
+Our submission-PDF describes our idea and vision of voice and shows a customer journey for the topic "give voice to football". 
